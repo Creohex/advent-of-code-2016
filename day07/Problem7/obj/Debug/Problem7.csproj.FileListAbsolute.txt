@@ -1,0 +1,6 @@
+G:\General Storage\GitHub\VariousStuff\AdventOfCode Assignments\Problem7\Problem7\bin\Debug\Problem7.exe.config
+G:\General Storage\GitHub\VariousStuff\AdventOfCode Assignments\Problem7\Problem7\bin\Debug\Problem7.exe
+G:\General Storage\GitHub\VariousStuff\AdventOfCode Assignments\Problem7\Problem7\bin\Debug\Problem7.pdb
+G:\General Storage\GitHub\VariousStuff\AdventOfCode Assignments\Problem7\Problem7\obj\Debug\Problem7.csprojResolveAssemblyReference.cache
+G:\General Storage\GitHub\VariousStuff\AdventOfCode Assignments\Problem7\Problem7\obj\Debug\Problem7.exe
+G:\General Storage\GitHub\VariousStuff\AdventOfCode Assignments\Problem7\Problem7\obj\Debug\Problem7.pdb

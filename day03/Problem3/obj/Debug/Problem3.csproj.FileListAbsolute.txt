@@ -1,0 +1,6 @@
+C:\Users\Creohex\Desktop\Advent\Problem3\Problem3\bin\Debug\Problem3.exe.config
+C:\Users\Creohex\Desktop\Advent\Problem3\Problem3\bin\Debug\Problem3.exe
+C:\Users\Creohex\Desktop\Advent\Problem3\Problem3\bin\Debug\Problem3.pdb
+C:\Users\Creohex\Desktop\Advent\Problem3\Problem3\obj\Debug\Problem3.csprojResolveAssemblyReference.cache
+C:\Users\Creohex\Desktop\Advent\Problem3\Problem3\obj\Debug\Problem3.exe
+C:\Users\Creohex\Desktop\Advent\Problem3\Problem3\obj\Debug\Problem3.pdb
